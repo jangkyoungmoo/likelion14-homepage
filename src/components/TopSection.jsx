@@ -46,7 +46,7 @@ export default function TopSection ({ selectedGen, setSelectedGen }) {
                     <Button
                     key={gen}
                     text={gen}
-                    active={selectedGen === gen}
+                    active={selectedGen === gen}    
                     onClick={() => setSelectedGen(gen)}
                     />
                 ))}

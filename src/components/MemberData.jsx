@@ -2,7 +2,7 @@ const commonDummy = {
   name: "김멋사", 
   dept: "소프트웨어학과", 
   num: "23학번",
-  img: "https://skulikelion.com/assets/default_Img-CuXAJNLx.svg" 
+  img: "https://skulikelion.com/assets/default_Img-CuXAJN`Lx.svg" 
 };
 
 export const MemberData = {

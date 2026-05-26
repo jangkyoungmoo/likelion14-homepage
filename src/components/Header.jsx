@@ -71,8 +71,6 @@ const buttonName5 = "멋쟁이사자처럼 서경대학교"
 
 const { pathname } = useLocation();
 const navigate = useNavigate();
-const isAddPage = pathname === "/add";
-
 
     return (
         <div>
